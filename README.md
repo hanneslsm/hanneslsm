@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I support good web design that people can use easily. I like clear HTML and CSS more than JS.
+I support great user experience and beautiful web design that everyone can use. I prefer HTML and CSS over JS.
 I enjoy making fast WordPress themes using only core blocks.
 
 - 🎨 I’m currently working on a UI Kit and block theme for the WordPress core editor. Stay tuned!
