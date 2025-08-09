@@ -1,10 +1,12 @@
 ### Hi there 👋
 
-I'm focusing on WordPress block themes. I'm using mostly only core blocks, CSS and only a very limited amount of JS and PHP.
+I build custom WordPress block themes for businesses and enterprises, sticking as closely as possible to WordPress core and relying primarily on clean CSS with minimal JavaScript and PHP.
 
-I built my first website in 2000 and have been passionate about web design ever since. I'm a design graduate with extensive experience in web design and branding and I worked as a project manager in design agencies for international automotive companies. My unique strength is combining solid design expertise with a deep understanding of development. I'm proficient in Photoshop, Illustrator, Figma, HTML, CSS, SCSS, and WordPress block theme development. I'm fluent in both German and English.
+Web design has been my passion since I launched my first site in 2000. After earning a graphic design degree in Germany (exchange year in England), I worked as a project manager at a leading design agency, working with the international design teams of global automotive brands.
 
-I'm a freelancer and run my own agency. Hit me up if you want to collaborate!
+Today I'm a freelancer, combining my design expertise with deep development knowledge. Proficient in Figma, Photoshop, Illustrator, HTML, CSS/SCSS, and WordPress block theme development, and fluent in German and English, I create elegant, structured, high-perfomant websites.
+
+Need support or consulting? Let’s collaborate!
 
 - 🌍 I’m working remotly, currently in Europe.
 - 👨‍💻 I'm available for freelance web design jobs.
